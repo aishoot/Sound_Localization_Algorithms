@@ -1,2 +1,2 @@
 # Microphone_Array_Beamforming
-Recognition of a point sound source by traditional beamforming algorithm
+A simple demo display of a point sound source recognition by traditional beamforming algorithm.
