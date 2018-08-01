@@ -73,7 +73,7 @@ for k1=1:length(z)
         Ri2 = sqrt((x(k2)-x2).^2+(y-y2).^2+(z(k1)-z2).^2);  % 10.8628
         Rn = Ri-Ri2;   % 扫描点到各阵元与参考阵元的程差矢量
         b = exp(-j*w*Rn/c); % 声压聚焦方向矢量
-        Pcbf(k1,k2) = abs(b'*R*b); % CSM
+        Pcbf(k1,k2) = abs(b'*R*b); % CSM,最关键,(1,18)*(18,18)*(18,1)
     end
 end
 
