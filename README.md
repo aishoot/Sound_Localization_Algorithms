@@ -1,4 +1,9 @@
 # Microphone_Array_Beamforming
-A simple demo display of a point sound source recognition by traditional beamforming algorithm.
 
 
+## Usage
+```bash
+matlab -nodesktop -nosplash –r matlabfile beamforming
+```
+
+## Results
