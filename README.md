@@ -7,7 +7,7 @@ matlab -nodesktop -nosplash –r matlabfile beamforming
 ```
 
 ## Results
-* microphone_array
+* microphone array
 
 ![](array.png)
 
