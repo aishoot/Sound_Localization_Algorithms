@@ -8,10 +8,15 @@ matlab -nodesktop -nosplash –r matlabfile beamforming
 
 ## Results
 * microphone_array
-![](array.jpg)
+
+![](array.png)
+
 
 * 2d map of localization result
-![](2d.jpg)
+
+![](2d.png)
+
 
 * 3d map of localization result
-![](3d.jpg)
+
+![](3d.png)
