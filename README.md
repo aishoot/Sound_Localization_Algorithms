@@ -20,3 +20,10 @@ matlab -nodesktop -nosplash –r matlabfile beamforming
 * 3d map of localization result
 
 ![](3d.png)
+
+
+## Reference Book
+* http://www.labbookpages.co.uk/audio/beamforming.html
+
+## Reference Website
+* https://www.cnblogs.com/xingshansi/p/7410846.html
