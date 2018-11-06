@@ -14,7 +14,7 @@ matlab -nodesktop -nosplash –r matlabfile (name of .m)
 
 
 ## Results
-### 1. Summarized
+### 1. Summary
 Wait ...
 
 
