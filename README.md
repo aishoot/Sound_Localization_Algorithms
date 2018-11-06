@@ -21,10 +21,10 @@ matlab -nodesktop -nosplash –r matlabfile (name of .m)
 #### 1.2 Min-Norm
 ![](DOA/Min-Norm.png)
 
-#### 1.1 MUSIC
+#### 1.3 MUSIC
 ![](DOA/MUSIC.png)
 
-#### 1.1 MVDR
+#### 1.4 MVDR
 ![](DOA/MVDR.png)
 
 
