@@ -20,24 +20,24 @@ pass
 
 ### 2. Beamforming
 #### 2.1 microphone array
-![](array.png)
+![](Beamforming/array.png)
 
 #### 2.2 Two-dimensional map of localization result
-![](2d.png)
+![](Beamforming/2d.png)
 
 #### 2.3 Three-dimensional map of localization result
-![](3d.png)
+![](Beamforming/3d.png)
 
 
 ### 3. MUSIC
 #### 3.1 matlab_implement3 (**BEST**)
 ![](MUSIC_implement3/result.png)
 
-#### 3.2 matlab-implementation-1
+#### 3.2 matlab_implement1
 ![](MUSIC_implement1/music-1.png)
 ![](MUSIC_implement1/music-2.png)
 
-#### 3.3 matlab-implementation-2
+#### 3.3 matlab_implement2
 ![](MUSIC_implement2/music-1.png)
 ![](MUSIC_implement2/music-2.png)
 
