@@ -22,10 +22,10 @@ pass
 #### 2.1 microphone array
 ![](array.png)
 
-#### 2.2 2d map of localization result
+#### 2.2 Two-dimensional map of localization result
 ![](2d.png)
 
-#### 2.3 3d map of localization result
+#### 2.3 Three-dimensional map of localization result
 ![](3d.png)
 
 
@@ -34,15 +34,11 @@ pass
 ![](MUSIC_implement3/result.png)
 
 #### 3.2 matlab-implementation-1
-
 ![](MUSIC_implement1/music-1.png)
-
 ![](MUSIC_implement1/music-2.png)
 
 #### 3.3 matlab-implementation-2
-
 ![](MUSIC_implement2/music-1.png)
-
 ![](MUSIC_implement2/music-2.png)
 
 
