@@ -1,5 +1,4 @@
-# Microphone_Array_Beamforming
-
+# Sound Source Localization
 
 ## Usage
 ```bash
