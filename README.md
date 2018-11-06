@@ -1,5 +1,5 @@
 # Sound Source Localization
-Classical algorithms of sound source localization with beamforming and high-resolution spectral estimation (MUSIC, ESPRIT, MVDR).
+Classical algorithms of sound source localization with beamforming and high-resolution spectral estimation.
 
 ## Usage
 ```bash
