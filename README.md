@@ -15,7 +15,7 @@ matlab -nodesktop -nosplash –r matlabfile (name of .m)
 
 ## Results
 ### 1. Summarized
-pass
+Wait ...
 
 
 ### 2. Beamforming
