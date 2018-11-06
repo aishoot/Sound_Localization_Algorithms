@@ -14,7 +14,7 @@ matlab -nodesktop -nosplash –r matlabfile (name of .m)
 
 
 ## Results
-### 1. Algorithm summary
+### 1. Algorithm Summary
 #### 1.1 Classical Beamforming
 ![](DOA/beamforming.png)
 
