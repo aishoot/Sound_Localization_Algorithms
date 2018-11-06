@@ -3,7 +3,7 @@
 
 ## Usage
 ```bash
-matlab -nodesktop -nosplash –r matlabfile beamforming
+matlab -nodesktop -nosplash –r matlabfile (name of matlab file)
 ```
 
 ## Results
@@ -27,3 +27,7 @@ matlab -nodesktop -nosplash –r matlabfile beamforming
 
 ## Reference Website
 * https://www.cnblogs.com/xingshansi/p/7410846.html
+* https://www.cnblogs.com/xingshansi/p/7553746.html
+* https://blog.csdn.net/zhuguorong11/article/details/70209070
+* https://blog.csdn.net/Wilder_ting/article/details/79122885
+* http://www.cnblogs.com/xingshansi/p/7554200.html
