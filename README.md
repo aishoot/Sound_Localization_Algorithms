@@ -14,8 +14,18 @@ matlab -nodesktop -nosplash –r matlabfile (name of .m)
 
 
 ## Results
-### 1. Summary
-Wait ...
+### 1. Algorithm summary
+#### 1.1 microphone array
+![](DOA/beamforming.png)
+
+#### 1.2 Min-Norm
+![](DOA/Min-Norm.png)
+
+#### 1.1 MUSIC
+![](DOA/MUSIC.png)
+
+#### 1.1 MVDR
+![](DOA/MVDR.png)
 
 
 ### 2. Beamforming
