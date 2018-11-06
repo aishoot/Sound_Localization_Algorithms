@@ -3,8 +3,15 @@
 
 ## Usage
 ```bash
-matlab -nodesktop -nosplash –r matlabfile (name of matlab file)
+matlab -nodesktop -nosplash –r matlabfile (name of .m)
 ```
+
+## Algorithm Interpretation
+* Beamforming: a spatial filtering method, is a signal processing technique used in sensor arrays for directional signal transmission or reception.
+* MUSIC: Multiple Signal Classification
+* ESPRIT: Estimation of Signal Parameters via Rotational Invariance Technique
+* MVDR: Minimum Variance Distortionless Response
+
 
 ## Results
 * microphone array
