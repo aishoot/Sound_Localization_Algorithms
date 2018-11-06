@@ -43,7 +43,7 @@ pass
 
 
 ## Reference Book
-* http://www.labbookpages.co.uk/audio/beamforming.html
+* [Microphone Array Beamforming](http://www.labbookpages.co.uk/audio/beamforming.html)
 
 ## Reference Website
 * [空间谱专题02：波束形成（Beamforming）](https://www.cnblogs.com/xingshansi/p/7410846.html)
