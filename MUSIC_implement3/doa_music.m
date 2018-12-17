@@ -31,7 +31,7 @@ R=Y*Y'/ss;  %R:(7,7) complex matrix
 
 % 特征分解 eigen-decomposition
 p=length(theta);
-[E,X,V]=svd(R);   %E=V,X是特征值,E是特征向量
+[E,X,V]=svd(R);   %E=V,7*7, E是特征向量; X是特征值,7*7,特征值在对角线上
 %Es=X(:,1:p); 
 En=E(:,p+1:sensor);   %X特征值由大到小降序排列,所以大特征值在前,即信号特征值在前,(7,5)
 
