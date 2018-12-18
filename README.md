@@ -40,16 +40,12 @@ matlab -nodesktop -nosplash –r matlabfile (name of .m)
 
 
 ### 3. MUSIC
-#### 3.1 matlab_implement3 (**BEST**)
-![](MUSIC_implement3/result.png)
+#### 3.1 matlab_implement2 (**BEST**)
+![](MUSIC_implement2/result.png)
 
-#### 3.2 matlab_implement1
+#### 3.3 matlab_implement1
 ![](MUSIC_implement1/music-1.png)
 ![](MUSIC_implement1/music-2.png)
-
-#### 3.3 matlab_implement2
-![](MUSIC_implement2/music-1.png)
-![](MUSIC_implement2/music-2.png)
 
 
 ## Reference Book
