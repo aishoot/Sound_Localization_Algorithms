@@ -16,16 +16,16 @@ matlab -nodesktop -nosplash –r matlabfile (name of .m)
 ## Results
 ### 1. Algorithm Summary
 #### 1.1 Classical Beamforming
-![](DOA/beamforming.png)
+![](MUSIC+ESPRIT+MVDR+MinNorm+Beamforming/beamforming.png)
 
 #### 1.2 Min-Norm
-![](DOA/Min-Norm.png)
+![](MUSIC+ESPRIT+MVDR+MinNorm+Beamforming/Min-Norm.png)
 
 #### 1.3 MUSIC
-![](DOA/MUSIC.png)
+![](MUSIC+ESPRIT+MVDR+MinNorm+Beamforming/MUSIC.png)
 
 #### 1.4 MVDR
-![](DOA/MVDR.png)
+![](MUSIC+ESPRIT+MVDR+MinNorm+Beamforming/MVDR.png)
 
 
 ### 2. Beamforming
