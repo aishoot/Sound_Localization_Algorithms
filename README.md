@@ -13,9 +13,9 @@ matlab -nodesktop -nosplash –r matlabfile (name of .m)
 * MVDR: Minimum Variance Distortionless Response
 
 ## Reference Paper
-* Title: Comparison of Direction of Arrival (DOA) Estimation Techniques for Closely Spaced Targets
-* Authors: Nauman Anwar Baig and Mohammad Bilal Malik
-* Published: International journal of future computer and communication 2, no. 6 (2013): 654
+* **Title**: *Comparison of Direction of Arrival (DOA) Estimation Techniques for Closely Spaced Targets*
+* **Authors**: Nauman Anwar Baig and Mohammad Bilal Malik
+* **Published**: International journal of future computer and communication 2, no. 6 (2013): 654
 
 
 ## Results
