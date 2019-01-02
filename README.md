@@ -12,8 +12,10 @@ matlab -nodesktop -nosplash –r matlabfile (name of .m)
 * ESPRIT: Estimation of Signal Parameters via Rotational Invariance Technique
 * MVDR: Minimum Variance Distortionless Response
 
-## Reference
-* 
+## Reference Paper
+* Title: Comparison of Direction of Arrival (DOA) Estimation Techniques for Closely Spaced Targets
+* Authors: Nauman Anwar Baig and Mohammad Bilal Malik
+* Published: International journal of future computer and communication 2, no. 6 (2013): 654
 
 
 ## Results
