@@ -11,7 +11,7 @@ matlab -nodesktop -nosplash –r matlabfile (name of .m)
 * MUSIC: Multiple Signal Classification
 * ESPRIT: Estimation of Signal Parameters via Rotational Invariance Technique
 * MVDR: Minimum Variance Distortionless Response
-* GCC-PHAT: Generalized Cross Correlation - Phase Transform
+* GCC-PHAT: Generalized Cross Correlation - Phase Transform (TDOA estimation)
 * SRP-PHAT: Steered Response Power - Phase Transform 
 
 ## Reference Paper
