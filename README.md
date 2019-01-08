@@ -11,7 +11,7 @@ matlab -nodesktop -nosplash –r matlabfile (name of .m)
 * MUSIC: Multiple Signal Classification
 * ESPRIT: Estimation of Signal Parameters via Rotational Invariance Technique
 * MVDR: Minimum Variance Distortionless Response
-* GCC-PHAT: Generalized Cross Correlation Phase Transform (GCC-PHAT) algorithm for Time Delay of Arrival (TDOA) estimation.
+* GCC-PHAT: Generalized Cross Correlation Phase Transform (GCC-PHAT)
 
 ## Reference Paper
 * **Title**: *Comparison of Direction of Arrival (DOA) Estimation Techniques for Closely Spaced Targets*
