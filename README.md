@@ -1,5 +1,5 @@
 # Sound Source Localization
-Classical algorithms of sound source localization with beamforming and high-resolution spectral estimation.
+Classical algorithms of sound source localization with beamforming, TDOA and high-resolution spectral estimation.
 
 ## Usage
 ```bash
