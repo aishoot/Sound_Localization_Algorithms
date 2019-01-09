@@ -20,7 +20,7 @@ matlab -nodesktop -nosplash –r matlabfile (name of .m)
   * **Authors**: Nauman Anwar Baig and Mohammad Bilal Malik
   * **Published**: International journal of future computer and communication 2, no. 6 (2013): 654
 * Paper 2
-  * Title: *Outdoor sound localization using a tetrahedral array
+  * **Title**: *Outdoor sound localization using a tetrahedral array
 
 ## Results
 ### 1. Algorithm Summary
