@@ -15,10 +15,12 @@ matlab -nodesktop -nosplash –r matlabfile (name of .m)
 * SRP-PHAT: Steered Response Power - Phase Transform 
 
 ## Reference Paper
-* **Title**: *Comparison of Direction of Arrival (DOA) Estimation Techniques for Closely Spaced Targets*
-* **Authors**: Nauman Anwar Baig and Mohammad Bilal Malik
-* **Published**: International journal of future computer and communication 2, no. 6 (2013): 654
-
+* Paper 1
+  * **Title**: *Comparison of Direction of Arrival (DOA) Estimation Techniques for Closely Spaced Targets*
+  * **Authors**: Nauman Anwar Baig and Mohammad Bilal Malik
+  * **Published**: International journal of future computer and communication 2, no. 6 (2013): 654
+* Paper 2
+  * Title: *Outdoor sound localization using a tetrahedral array
 
 ## Results
 ### 1. Algorithm Summary
